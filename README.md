@@ -4,15 +4,15 @@ This project aims to give users the opportunity to access and evaluate data from
 
 Libraries to import:
 
-1. Googleapiclient.Discovery
+1. Googleapiclient.Discovery.
 
-2. Streamlit
+2. Streamlit.
 
-3.psycopg2
+   3.psycopg2.
 
 4. PyMongo.
 
-5. Pandas
+5. Pandas.
 
 Approach:
 
