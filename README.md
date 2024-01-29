@@ -8,7 +8,7 @@ Libraries to import:
 
 2. Streamlit.
 
- 3.psycopg2.
+3.psycopg2.
 
 4. PyMongo.
 
