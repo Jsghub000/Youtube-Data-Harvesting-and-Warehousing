@@ -3,16 +3,16 @@ Capstone Project:  Youtube Data Harvesting and Warehousing
 This project aims to give users the opportunity to access and evaluate data from several YouTube channels .SQL, MongoDB, and Streamlit are used in the project to provide a user-friendly application for retrieving, saving, and querying YouTube channel and video data.
 
 Libraries to import:
-
-1. Googleapiclient.Discovery.
-
-2. Streamlit.
-
-3.psycopg2.
-
-4. PyMongo.
-
-5. Pandas.
+  
+  1. Googleapiclient.Discovery.
+  
+  2. Streamlit.
+  
+  3.psycopg2.
+  
+  4. PyMongo.
+  
+  5. Pandas.
 
 Approach:
 
